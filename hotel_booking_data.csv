@@ -1,0 +1,151 @@
+BookingID,BookingDate,CheckInDate,CheckOutDate,CustomerName,RoomType,Guests,Country,BookingChannel,TotalAmount,PaymentStatus,Rating,IsCancelled,PromoUsed
+BKG0001,2025-02-22,2025-02-23,2025-02-28,Kristi Smith,Double,3,UK,Website,775.39,Pending,,No,No
+BKG0002,2025-06-08,2025-06-16,2025-06-20,Ashley Vasquez,Double,1,USA,Mobile App,226.13,Paid,5.0,No,Yes
+BKG0003,2025-06-13,2025-06-22,2025-06-26,Abigail Williams,Double,4,Australia,Website,204.21,Cancelled,,Yes,No
+BKG0004,2025-05-17,2025-05-18,2025-05-21,Sarah Brown,Suite,3,Germany,Phone,795.57,Paid,4.0,No,Yes
+BKG0005,2025-06-27,2025-07-05,2025-07-07,Joshua Walter,Double,2,USA,Phone,603.83,Paid,2.0,No,Yes
+BKG0006,2025-07-07,2025-07-08,2025-07-10,Shelby Jimenez,Double,3,USA,Mobile App,511.52,Paid,3.0,No,No
+BKG0007,2025-05-20,2025-05-22,2025-05-23,Laura Gregory MD,Suite,1,India,Phone,618.88,Pending,,No,Yes
+BKG0008,2025-07-26,2025-08-05,2025-08-07,Jim Hunt,Suite,5,UK,Phone,980.67,Paid,3.0,No,Yes
+BKG0009,2025-05-22,2025-05-27,2025-06-02,Brianna Moore,Double,5,Australia,Phone,187.08,Paid,4.0,No,Yes
+BKG0010,2025-02-21,2025-02-24,2025-02-26,Melissa Walker,Suite,4,India,Mobile App,623.81,Paid,5.0,No,No
+BKG0011,2025-06-04,2025-06-14,2025-06-21,Samantha Willis,Single,3,Germany,Phone,731.93,Paid,1.0,No,No
+BKG0012,2025-07-17,2025-07-25,2025-07-26,Glen Meyers,Suite,4,Germany,Phone,542.51,Paid,4.0,No,Yes
+BKG0013,2025-02-01,2025-02-08,2025-02-15,Richard Smith,Double,5,Germany,Mobile App,337.11,Paid,2.0,No,No
+BKG0014,2025-02-19,2025-02-20,2025-02-27,Michael Boyd,Single,5,Australia,Website,235.66,Paid,4.0,No,No
+BKG0015,2025-02-07,2025-02-15,2025-02-20,Jose Smith,Double,1,Canada,Website,504.92,Cancelled,,Yes,No
+BKG0016,2025-04-06,2025-04-08,2025-04-11,Michael Edwards,Single,2,Australia,Phone,334.98,Paid,5.0,No,No
+BKG0017,2025-03-25,2025-03-31,2025-04-07,Daniel Adams,Suite,3,UK,Mobile App,411.73,Paid,1.0,No,Yes
+BKG0018,2025-03-15,2025-03-25,2025-03-28,Lori Murray,Suite,3,Australia,Website,276.41,Paid,2.0,No,No
+BKG0019,2025-07-26,2025-08-05,2025-08-09,David Miller,Double,4,Australia,Phone,332.99,Paid,3.0,No,Yes
+BKG0020,2025-04-08,2025-04-11,2025-04-18,Annette Hubbard,Single,4,France,Website,732.9,Paid,3.0,No,No
+BKG0021,2025-05-05,2025-05-10,2025-05-13,Denise Mcclure,Suite,2,Germany,Phone,862.63,Cancelled,,Yes,No
+BKG0022,2025-02-21,2025-03-02,2025-03-04,Meagan Pratt,Single,1,France,Website,752.17,Cancelled,,Yes,No
+BKG0023,2025-05-24,2025-06-02,2025-06-05,Matthew Wilson,Suite,2,UK,Mobile App,109.59,Paid,5.0,No,Yes
+BKG0024,2025-02-15,2025-02-25,2025-02-26,Robert Garza,Suite,4,USA,Phone,887.27,Paid,2.0,No,No
+BKG0025,2025-06-27,2025-07-04,2025-07-08,Mark Foster,Double,3,USA,Website,163.1,Cancelled,,Yes,Yes
+BKG0026,2025-05-16,2025-05-25,2025-05-26,Jessica Moore,Double,3,Canada,Phone,461.38,Paid,5.0,No,Yes
+BKG0027,2025-02-24,2025-02-25,2025-03-03,Sue Rhodes,Suite,5,Germany,Mobile App,194.03,Paid,4.0,No,No
+BKG0028,2025-02-21,2025-02-28,2025-03-02,Jaime Morton,Suite,5,Australia,Website,503.88,Cancelled,,Yes,Yes
+BKG0029,2025-03-27,2025-04-03,2025-04-08,Johnny Harvey,Double,1,Australia,Website,546.62,Pending,,No,No
+BKG0030,2025-04-10,2025-04-11,2025-04-14,Michael Anderson,Suite,1,USA,Mobile App,208.8,Paid,3.0,No,No
+BKG0031,2025-06-16,2025-06-23,2025-06-27,Justin Fletcher,Double,1,Germany,Phone,973.5,Paid,4.0,No,No
+BKG0032,2025-02-10,2025-02-12,2025-02-14,Michael Stevens,Suite,3,India,Mobile App,958.27,Paid,5.0,No,No
+BKG0033,2025-03-23,2025-04-01,2025-04-07,Amanda Lee,Suite,3,UK,Phone,321.05,Pending,,No,No
+BKG0034,2025-03-21,2025-03-27,2025-03-30,Charles Armstrong,Single,2,Canada,Website,741.11,Paid,4.0,No,No
+BKG0035,2025-06-20,2025-06-25,2025-06-29,Amanda Sampson DDS,Double,3,Canada,Website,554.22,Paid,5.0,No,Yes
+BKG0036,2025-07-05,2025-07-13,2025-07-18,John Higgins,Suite,1,Germany,Phone,129.52,Cancelled,,Yes,Yes
+BKG0037,2025-03-12,2025-03-14,2025-03-20,Jacqueline Donaldson,Single,3,Australia,Website,396.27,Cancelled,,Yes,No
+BKG0038,2025-04-25,2025-05-03,2025-05-05,Joshua Pham,Double,1,India,Phone,395.06,Paid,3.0,No,Yes
+BKG0039,2025-04-15,2025-04-20,2025-04-25,Aaron Thomas,Double,1,Germany,Website,154.89,Paid,1.0,No,No
+BKG0040,2025-06-17,2025-06-22,2025-06-29,Amber Hanson,Single,2,France,Mobile App,927.91,Paid,3.0,No,No
+BKG0041,2025-07-14,2025-07-19,2025-07-20,Judith Brown,Double,5,Australia,Phone,348.41,Paid,4.0,No,Yes
+BKG0042,2025-03-24,2025-03-30,2025-04-03,Timothy Lang,Suite,5,India,Mobile App,120.45,Pending,,No,Yes
+BKG0043,2025-02-26,2025-03-02,2025-03-07,Chelsea Walker,Suite,2,India,Mobile App,140.97,Paid,5.0,No,No
+BKG0044,2025-04-16,2025-04-19,2025-04-21,Rachael Perez,Single,1,France,Mobile App,466.12,Paid,1.0,No,Yes
+BKG0045,2025-07-20,2025-07-29,2025-08-03,Christopher Romero,Double,4,Australia,Mobile App,496.11,Paid,2.0,No,No
+BKG0046,2025-04-13,2025-04-22,2025-04-28,Debra Potter,Single,5,Germany,Phone,563.94,Paid,2.0,No,No
+BKG0047,2025-04-26,2025-05-04,2025-05-07,Jamie Tanner,Double,3,UK,Mobile App,306.23,Paid,2.0,No,Yes
+BKG0048,2025-05-02,2025-05-08,2025-05-11,Johnny Doyle,Single,5,Germany,Phone,879.14,Paid,3.0,No,No
+BKG0049,2025-04-16,2025-04-18,2025-04-22,Ashley King,Suite,1,USA,Website,549.22,Paid,4.0,No,Yes
+BKG0050,2025-05-16,2025-05-18,2025-05-21,Emily Jackson,Single,5,France,Mobile App,637.11,Pending,,No,Yes
+BKG0051,2025-06-11,2025-06-21,2025-06-22,Cory Turner,Suite,4,USA,Phone,664.22,Paid,3.0,No,Yes
+BKG0052,2025-07-12,2025-07-16,2025-07-23,Crystal Thompson,Double,5,Canada,Phone,964.63,Paid,5.0,No,Yes
+BKG0053,2025-03-29,2025-04-04,2025-04-09,Jessica Kane,Suite,3,France,Phone,420.51,Paid,4.0,No,Yes
+BKG0054,2025-05-10,2025-05-18,2025-05-21,Timothy Briggs,Single,3,USA,Website,631.03,Cancelled,,Yes,No
+BKG0055,2025-05-01,2025-05-03,2025-05-09,Marc Sweeney,Single,3,UK,Mobile App,582.37,Paid,1.0,No,Yes
+BKG0056,2025-03-15,2025-03-24,2025-03-29,John Snyder,Double,2,India,Phone,554.61,Paid,4.0,No,No
+BKG0057,2025-03-13,2025-03-17,2025-03-24,Heather Hampton,Double,2,France,Mobile App,835.36,Pending,,No,Yes
+BKG0058,2025-02-15,2025-02-22,2025-03-01,Ryan Clay,Suite,5,India,Phone,810.15,Paid,4.0,No,Yes
+BKG0059,2025-01-31,2025-02-10,2025-02-12,David Berg,Suite,2,UK,Mobile App,881.21,Paid,2.0,No,No
+BKG0060,2025-03-11,2025-03-15,2025-03-22,John Mccoy,Double,4,Germany,Website,106.3,Paid,2.0,No,No
+BKG0061,2025-07-11,2025-07-15,2025-07-22,Tristan Hubbard,Double,5,Australia,Website,177.12,Paid,1.0,No,No
+BKG0062,2025-05-25,2025-05-29,2025-06-03,Ryan Scott,Single,3,Australia,Website,156.66,Paid,5.0,No,Yes
+BKG0063,2025-04-09,2025-04-10,2025-04-14,Evan Ramirez,Single,5,USA,Website,970.64,Paid,2.0,No,No
+BKG0064,2025-06-08,2025-06-17,2025-06-20,Ryan Garza,Suite,3,Germany,Mobile App,717.55,Paid,4.0,No,Yes
+BKG0065,2025-06-28,2025-07-07,2025-07-14,Nicole Hebert,Double,3,Australia,Mobile App,451.36,Paid,3.0,No,No
+BKG0066,2025-06-10,2025-06-20,2025-06-25,Eric Hughes,Single,3,Canada,Website,100.08,Paid,4.0,No,No
+BKG0067,2025-03-23,2025-03-28,2025-03-31,Chad Lewis,Suite,2,Canada,Mobile App,420.51,Paid,4.0,No,Yes
+BKG0068,2025-05-19,2025-05-20,2025-05-27,Jeremy Peterson,Suite,3,France,Mobile App,382.17,Paid,4.0,No,Yes
+BKG0069,2025-02-25,2025-03-01,2025-03-02,Angelica Wagner,Single,4,UK,Website,904.71,Cancelled,,Yes,Yes
+BKG0070,2025-06-21,2025-06-25,2025-06-26,Carla Garza,Single,5,Canada,Phone,334.22,Paid,1.0,No,Yes
+BKG0071,2025-02-28,2025-03-09,2025-03-15,Robert Brown,Double,2,Canada,Mobile App,178.44,Paid,1.0,No,No
+BKG0072,2025-04-28,2025-05-06,2025-05-07,Jenna Foster,Single,5,Germany,Mobile App,799.51,Cancelled,,Yes,No
+BKG0073,2025-06-02,2025-06-10,2025-06-14,Sharon Hawkins,Single,1,USA,Website,717.5,Pending,,No,No
+BKG0074,2025-04-08,2025-04-11,2025-04-12,Ryan Green,Suite,1,USA,Phone,944.31,Cancelled,,Yes,No
+BKG0075,2025-02-12,2025-02-21,2025-02-24,Samuel Lopez,Single,5,Germany,Website,672.44,Pending,,No,No
+BKG0076,2025-02-23,2025-02-27,2025-03-01,Monique West,Suite,5,India,Mobile App,283.72,Paid,1.0,No,No
+BKG0077,2025-02-13,2025-02-21,2025-02-22,Andrew Smith,Suite,4,Canada,Phone,277.53,Paid,2.0,No,No
+BKG0078,2025-04-22,2025-04-25,2025-05-01,Matthew Bryant,Suite,3,Australia,Mobile App,305.55,Paid,3.0,No,No
+BKG0079,2025-06-23,2025-06-26,2025-07-02,Rachel Johnson,Suite,3,India,Phone,869.76,Paid,5.0,No,No
+BKG0080,2025-07-22,2025-07-25,2025-07-27,Erik Kim,Single,1,Canada,Website,428.88,Paid,5.0,No,Yes
+BKG0081,2025-06-11,2025-06-21,2025-06-22,Alicia James,Single,5,Canada,Website,783.33,Paid,2.0,No,Yes
+BKG0082,2025-04-07,2025-04-08,2025-04-10,Cynthia Stephens,Double,2,France,Website,397.96,Paid,3.0,No,No
+BKG0083,2025-01-30,2025-02-03,2025-02-10,Allison Velazquez,Single,2,France,Phone,694.22,Pending,,No,Yes
+BKG0084,2025-07-23,2025-07-30,2025-08-02,Charles Vargas,Suite,5,Germany,Website,910.05,Paid,2.0,No,No
+BKG0085,2025-02-09,2025-02-16,2025-02-19,Melissa Rowland,Single,5,Germany,Phone,568.77,Cancelled,,Yes,Yes
+BKG0086,2025-07-07,2025-07-13,2025-07-15,Chad Howard,Double,3,France,Phone,229.08,Pending,,No,No
+BKG0087,2025-06-18,2025-06-28,2025-06-29,Steven Smith,Suite,1,Germany,Phone,394.75,Paid,5.0,No,Yes
+BKG0088,2025-07-19,2025-07-27,2025-08-02,Lisa Guerra,Suite,2,India,Phone,691.01,Pending,,No,Yes
+BKG0089,2025-05-12,2025-05-19,2025-05-24,Tracey Powell,Double,3,USA,Website,394.85,Paid,2.0,No,Yes
+BKG0090,2025-01-29,2025-02-03,2025-02-09,Mason Gilmore,Single,3,USA,Phone,747.5,Paid,5.0,No,Yes
+BKG0091,2025-06-02,2025-06-03,2025-06-08,George Ray,Single,1,USA,Phone,370.02,Cancelled,,Yes,Yes
+BKG0092,2025-07-15,2025-07-25,2025-07-27,Valerie Dominguez,Suite,3,UK,Mobile App,291.6,Paid,4.0,No,Yes
+BKG0093,2025-04-11,2025-04-14,2025-04-18,Ryan Cunningham,Double,1,India,Website,660.77,Pending,,No,No
+BKG0094,2025-05-17,2025-05-18,2025-05-21,Stacy Baker,Suite,5,UK,Mobile App,254.81,Pending,,No,Yes
+BKG0095,2025-03-19,2025-03-20,2025-03-23,Rachel Graves,Double,3,Germany,Phone,354.25,Pending,,No,No
+BKG0096,2025-05-09,2025-05-12,2025-05-16,Marc Jones,Suite,2,Canada,Website,225.52,Paid,5.0,No,Yes
+BKG0097,2025-02-18,2025-02-27,2025-03-03,Justin Sanchez,Suite,5,USA,Mobile App,110.96,Pending,,No,Yes
+BKG0098,2025-06-09,2025-06-18,2025-06-19,Karen Ellis,Suite,5,Germany,Phone,682.5,Pending,,No,No
+BKG0099,2025-05-17,2025-05-20,2025-05-23,Jeremy Lee,Single,5,France,Mobile App,820.48,Paid,4.0,No,No
+BKG0100,2025-05-29,2025-06-05,2025-06-12,Natalie Campbell,Double,1,UK,Mobile App,665.3,Paid,4.0,No,Yes
+BKG0101,2025-05-31,2025-06-09,2025-06-15,Sheila Wheeler,Double,1,USA,Mobile App,609.49,Paid,5.0,No,No
+BKG0102,2025-06-28,2025-06-29,2025-07-06,Jennifer Gonzalez,Double,4,France,Website,454.45,Paid,1.0,No,Yes
+BKG0103,2025-06-09,2025-06-14,2025-06-17,Anthony Garcia,Suite,1,Germany,Phone,475.55,Paid,1.0,No,Yes
+BKG0104,2025-05-06,2025-05-14,2025-05-20,Manuel Lopez,Double,2,France,Website,888.11,Paid,2.0,No,No
+BKG0105,2025-07-14,2025-07-24,2025-07-25,Lisa Brown,Suite,1,India,Mobile App,454.86,Paid,5.0,No,No
+BKG0106,2025-03-16,2025-03-25,2025-03-29,Jennifer Meyer,Single,2,India,Mobile App,487.16,Paid,4.0,No,Yes
+BKG0107,2025-02-03,2025-02-09,2025-02-14,Daniel Burton,Single,2,India,Phone,369.56,Pending,,No,Yes
+BKG0108,2025-02-06,2025-02-09,2025-02-10,Jillian Dawson,Double,4,Germany,Phone,123.58,Paid,1.0,No,Yes
+BKG0109,2025-05-17,2025-05-27,2025-06-02,Dawn Vargas,Suite,5,Australia,Website,417.03,Paid,5.0,No,No
+BKG0110,2025-04-26,2025-05-02,2025-05-07,Jennifer Nunez,Single,4,UK,Website,414.9,Paid,5.0,No,Yes
+BKG0111,2025-02-14,2025-02-15,2025-02-17,Jennifer Bryan,Suite,5,Australia,Mobile App,914.39,Paid,2.0,No,No
+BKG0112,2025-05-30,2025-06-02,2025-06-05,Ronald Ferrell,Suite,5,Australia,Website,349.72,Paid,5.0,No,No
+BKG0113,2025-07-21,2025-07-26,2025-07-28,Ashley Brady,Suite,2,Canada,Website,104.17,Cancelled,,Yes,Yes
+BKG0114,2025-02-13,2025-02-23,2025-02-27,Brian Douglas,Single,2,India,Website,761.69,Cancelled,,Yes,No
+BKG0115,2025-07-04,2025-07-13,2025-07-18,Larry Torres,Double,1,UK,Phone,303.69,Paid,3.0,No,No
+BKG0116,2025-07-19,2025-07-22,2025-07-28,James Hanson,Single,5,Australia,Website,467.42,Cancelled,,Yes,Yes
+BKG0117,2025-06-13,2025-06-16,2025-06-17,Andrew Serrano,Single,3,Australia,Mobile App,611.42,Pending,,No,Yes
+BKG0118,2025-07-29,2025-08-01,2025-08-07,Joseph Scott,Suite,3,UK,Website,328.9,Paid,2.0,No,Yes
+BKG0119,2025-07-04,2025-07-10,2025-07-11,Kristin Payne,Suite,3,USA,Mobile App,575.7,Pending,,No,Yes
+BKG0120,2025-05-28,2025-05-29,2025-05-30,Kimberly Davies,Double,5,Canada,Website,767.85,Cancelled,,Yes,Yes
+BKG0121,2025-06-16,2025-06-23,2025-06-26,Joshua Santiago,Double,2,Germany,Phone,609.1,Pending,,No,No
+BKG0122,2025-03-12,2025-03-19,2025-03-24,John Cobb,Suite,3,Australia,Website,303.72,Paid,3.0,No,No
+BKG0123,2025-07-14,2025-07-16,2025-07-23,Jeffery Becker,Single,5,USA,Mobile App,930.83,Paid,4.0,No,Yes
+BKG0124,2025-04-02,2025-04-06,2025-04-09,Sean Brown,Suite,1,India,Mobile App,274.13,Paid,3.0,No,No
+BKG0125,2025-04-10,2025-04-12,2025-04-17,Daniel Hall,Suite,5,USA,Phone,841.06,Pending,,No,No
+BKG0126,2025-05-07,2025-05-12,2025-05-13,Elizabeth Estes,Double,3,Germany,Website,797.81,Pending,,No,Yes
+BKG0127,2025-07-03,2025-07-13,2025-07-14,Lynn Fitzgerald,Suite,3,France,Phone,420.48,Paid,4.0,No,No
+BKG0128,2025-04-16,2025-04-21,2025-04-23,Jared Jenkins,Suite,4,USA,Phone,243.55,Paid,4.0,No,Yes
+BKG0129,2025-07-20,2025-07-22,2025-07-28,Sarah Villegas,Suite,1,France,Mobile App,201.42,Pending,,No,No
+BKG0130,2025-03-04,2025-03-09,2025-03-12,Vickie Garcia,Single,1,UK,Mobile App,242.12,Paid,1.0,No,Yes
+BKG0131,2025-04-17,2025-04-20,2025-04-23,Sherry King,Double,5,USA,Website,160.55,Paid,3.0,No,Yes
+BKG0132,2025-06-12,2025-06-22,2025-06-25,Hannah Phillips,Suite,4,Australia,Mobile App,827.84,Paid,2.0,No,Yes
+BKG0133,2025-02-15,2025-02-17,2025-02-19,Zachary Foley,Double,3,UK,Mobile App,164.93,Pending,,No,Yes
+BKG0134,2025-07-04,2025-07-05,2025-07-11,Rhonda Rose,Double,1,USA,Phone,174.64,Paid,1.0,No,Yes
+BKG0135,2025-02-03,2025-02-12,2025-02-13,Glenn Lopez,Suite,1,India,Mobile App,526.26,Paid,3.0,No,Yes
+BKG0136,2025-03-03,2025-03-11,2025-03-18,Jeffrey Molina,Suite,4,USA,Mobile App,687.83,Paid,5.0,No,Yes
+BKG0137,2025-03-06,2025-03-10,2025-03-12,John Graham,Suite,5,Germany,Phone,492.4,Pending,,No,No
+BKG0138,2025-04-13,2025-04-19,2025-04-22,Melissa Willis,Single,2,India,Phone,407.49,Paid,2.0,No,Yes
+BKG0139,2025-03-22,2025-03-23,2025-03-27,Joseph Schroeder,Single,5,India,Website,187.13,Paid,4.0,No,No
+BKG0140,2025-03-24,2025-03-31,2025-04-02,John Pittman,Suite,4,Australia,Mobile App,984.82,Paid,3.0,No,Yes
+BKG0141,2025-02-27,2025-02-28,2025-03-01,Christine Cooper,Double,4,Germany,Phone,669.8,Paid,3.0,No,Yes
+BKG0142,2025-07-10,2025-07-19,2025-07-25,Calvin Flores,Double,2,Australia,Mobile App,273.9,Paid,4.0,No,No
+BKG0143,2025-05-16,2025-05-22,2025-05-29,Gregory Morton,Double,4,India,Mobile App,131.9,Cancelled,,Yes,No
+BKG0144,2025-03-10,2025-03-11,2025-03-16,Alexander Davis,Double,4,UK,Mobile App,476.84,Paid,1.0,No,No
+BKG0145,2025-06-26,2025-06-30,2025-07-05,Russell Garcia,Double,1,Canada,Mobile App,260.33,Paid,2.0,No,Yes
+BKG0146,2025-02-23,2025-03-02,2025-03-09,Kristy Ford,Single,3,Australia,Website,395.48,Paid,2.0,No,Yes
+BKG0147,2025-02-18,2025-02-23,2025-02-25,Rachel Jones,Suite,1,Germany,Website,490.29,Paid,5.0,No,Yes
+BKG0148,2025-06-05,2025-06-11,2025-06-14,Ethan Adams,Suite,2,Canada,Website,558.26,Pending,,No,No
+BKG0149,2025-05-22,2025-05-28,2025-06-03,Michael Warren,Suite,3,Canada,Website,971.47,Paid,1.0,No,No
+BKG0150,2025-04-21,2025-04-27,2025-05-04,Robert Cox,Double,5,France,Website,482.45,Paid,2.0,No,Yes
