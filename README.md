@@ -29,4 +29,4 @@ This Tableau dashboard analyzes hotel performance using revenue, guests, ratings
 
 ## Dashboard Preview
 
-(Add your dashboard screenshot here)
+<img width="1636" height="994" alt="Hotel-Analysis-Dashboard" src="https://github.com/user-attachments/assets/64fa0a57-fa2a-4e9f-8ade-6719c841723d" />
